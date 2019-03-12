@@ -1,0 +1,15 @@
+(1) LogosNet is like an online chat room, with some differences. It will be 
+hosted by a server, and then clients can connect to the server as either a 
+participant or an observer. When a participant connects, they will give a 
+username and then they will be able to send messages of less than 1000 
+characters. They can choose to send a message to everyone or a specific user (by 
+using @username). Up to 255 participants can connect. When an observer connects, 
+they will choose which participant they want to connect to, and then they will 
+see all the messages sent and recieved by that participant. Up to 255 observers 
+can connect. 
+
+(2) We anticipate that there will be difficulty with getting every message to 
+the correct place(s), and only to the correct place(s). 
+
+(3) If we get stuck, we will consult our lecture notes, the textbook, the 
+professor's office hours, or Google.
